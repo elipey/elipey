@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Felipe 👋</h1>
 
 <p align="center">
-  Desenvolvedor em evolução, focado em criar sites, lojas virtuais, bots e interfaces modernas para projetos reais.
+  Desenvolvedor em evolução.
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Gosto de transformar ideias em projetos que funcionam de verdade. Atualmente estou construindo meu portfólio com foco em aplicações web, páginas comerciais, e-commerces demonstrativos e automações simples.
+Gosto de transformar ideias em projetos que funcionam de verdade. Atualmente estou construindo meu portfólio com foco em aplicações web e automações simples.
 
 Meu objetivo é evoluir como desenvolvedor e entregar projetos úteis, organizados e com uma apresentação profissional.
 
