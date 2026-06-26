@@ -8,7 +8,6 @@
   <a href="https://github.com/elipey?tab=repositories">
     <img src="https://img.shields.io/badge/Portfólio-GitHub-181717?style=for-the-badge&logo=github" alt="Portfólio no GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Aberto%20a-Freelas-22c55e?style=for-the-badge" alt="Aberto a freelas" />
 </p>
 
 ---
@@ -51,7 +50,6 @@ Bot de vendas para Discord com integração via Pix, entrega automática de carg
 ## O que eu estou buscando
 
 - Criar projetos melhores para portfólio.
-- Trabalhar em freelas de sites, landing pages e lojas simples.
 - Evoluir em front-end, back-end e boas práticas de desenvolvimento.
 - Aprender construindo projetos reais.
 
