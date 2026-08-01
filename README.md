@@ -18,7 +18,3 @@ Currently building with `JavaScript`, `TypeScript`, `React` and `Node.js`.
   <img src="https://github-readme-stats.vercel.app/api?username=elipey&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8b949e&icon_color=39ff14&ring_color=39ff14" height="135" alt="GitHub stats" />
 </p>
 
-```text
-status: online
-trace:  minimized
-```
