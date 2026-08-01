@@ -23,8 +23,7 @@
 ```
 
 ```text
-> developer / builder
-> web / automation
+> developer / web
 ```
 
 I turn ideas into working systems.
