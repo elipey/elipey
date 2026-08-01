@@ -23,8 +23,8 @@
 ```
 
 ```text
-> developer / builder / night operator
-> web / automation / experiments
+> developer / builder
+> web / automation
 ```
 
 I turn ideas into working systems.
